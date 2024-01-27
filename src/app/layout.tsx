@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "WenChart",
-  description: "Helps you know what is going on with $when",
+  description: "Helps you know what is going on with $wen/USDC",
 };
 
 export default function RootLayout({
